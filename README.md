@@ -10,6 +10,6 @@ StackExchange, the parent platform of popular discussion boards including Stacko
 
 ##### So how do tech stock prices correlate with question frequency on StackExchange?
 
-<center><iframe src="https://public.tableau.com/views/public_exercise/Dashboard1?:showVizHome=no&:embed=true"
+<center><iframe src="https://public.tableau.com/views/Oracle-Stackexchange/Normal?:embed=y&:display_count=yes"
  width="645" height="955"></iframe>
 
